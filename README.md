@@ -37,10 +37,22 @@ Contents of this `README.md` are visible on Github and included on [the document
 If you have questions related to this example, feel free to can ask them as a Github issue [here](https://github.com/readthedocs-examples/example-mkdocs-basic/issues).
 
 
-Example Project usage
+ePIC Tutorial 1
+---------------------
+1. [Setting up an enviroment](https://eic.github.io/tutorial-setting-up-environment/)
+1. [Geometry within dd4hep](https://eic.github.io/tutorial-geometry-development-using-dd4hep/ )
+1. [Simulation with ePIC singularity container](https://eic.github.io/tutorial-simulations-using-ddsim-and-geant4/)
+1. [Reconstruction framework](https://eic.github.io/tutorial-jana2/)
+
+
+
+
+
+
+ePIC Tutorial 2
 ---------------------
 
-This project has a standard MkDocs layout which is built by Read the Docs almost the same way that you would build it locally (on your own laptop!).
+
 
 You can build and view this documentation project locally - we recommend that you activate [a local Python virtual environment first](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/#creating-a-virtual-environment):
 
@@ -51,8 +63,12 @@ pip install -r docs/requirements.txt
 # Run the mkdocs development server
 mkdocs serve
 ```
+EIC-recon
+-------------------------------------
+[eic\_recon page with exampke is here](https://eic.github.io/EICrecon/#/):
 
-Using the example in your own project
+
+FAQ
 -------------------------------------
 
 If you are new to Read the Docs, you may want to refer to the [Read the Docs User documentation](https://docs.readthedocs.io/).
@@ -67,7 +83,31 @@ If you are copying this code in order to get started with your documentation, yo
 1. *Finally*, register your project on Read the Docs, see [Importing Your Documentation](https://docs.readthedocs.io/en/stable/intro/import-guide.html).
 
 
-Read the Docs tutorial
+How to get help
+-------------------------------------
+1. Use mattermost!
+
+
+
+How to Access simulated data
+---------------------
+
+[Instruction on how to access data from S3](https://doc.athena-eic.org/en/latest/howto/s3_file_storage.html)
+
+
+
+
+
+
+How to submit jobs
+---------------------
+
+
+
 ----------------------
 
 To get started with Read the Docs, you may also refer to the [Read the Docs tutorial](https://docs.readthedocs.io/en/stable/tutorial/). It provides a full walk-through of building an example project similar to the one in this repository.
+
+
+
+

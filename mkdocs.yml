@@ -1,4 +1,4 @@
-site_name: Basic MkDocs Example Project
+site_name: ePIC Landing Page
 theme:
   name: readthedocs
   highlightjs: true
@@ -14,3 +14,18 @@ markdown_extensions:
   - markdown_include.include:
       base_path: .
   - admonition
+  - pymdownx.highlight:
+       use_pygments: false
+
+#markdown_extensions:
+#   - toc:
+#       permalink:
+#   - attr_list
+#   - def_list
+#   - tables
+#   - pymdownx.highlight:
+#       use_pygments: false
+#   - pymdownx.snippets
+#   - pymdownx.superfences
+
+
