@@ -17,6 +17,18 @@ markdown_extensions:
   - pymdownx.highlight:
        use_pygments: false
 
+nav:
+  - How to start?: index.md
+  - Useful Resourced: useful_resource.md
+  - ePIC FAQ: FAQ.md 
+
+#  - Auto generated:
+#    - ... | auto-generated/*/*.md
+
+
+#nav:
+#    - HOME | index*.md
+
 #markdown_extensions:
 #   - toc:
 #       permalink:

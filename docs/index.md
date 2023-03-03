@@ -1,5 +1,6 @@
 {!README.md!}
 
+<!--
 # Welcome to Lumache's documentation!
 
 **Lumache** (/lu\'make/) is a Python library for cooks and food lovers
@@ -12,4 +13,6 @@ Check out the [usage](usage) section for further information, including how to [
 !!! note
 
     This project is under active development.
+-->
+
 
